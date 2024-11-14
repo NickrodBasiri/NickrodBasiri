@@ -22,9 +22,6 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
 
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickrodbasiri&layout=compact" alt="Top Languages"/>
-</div>
+
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=nickrodbasiri&label=Profile%20views&color=0e75b6&style=flat" alt="matthewfrieri" /></p>
