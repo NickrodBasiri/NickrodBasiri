@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nickrod Basiri</h1>
-<p align="center">Currently exploring Web Development</p>
+<p align="center">Currently exploring Game Development</p>
 
 <h3 align="left">Check out my <a href="https://nickrodbasiri.com/" target="_blank">Portfolio Website</a></h3>
 <h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/nickrodbasiri/" target="_blank">LinkedIn</a></h3>
